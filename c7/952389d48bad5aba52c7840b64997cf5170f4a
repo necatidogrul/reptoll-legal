@@ -1,0 +1,19 @@
+docs/privacy.html
+  s_a12f711bad3cce::t_1f575d7c37088c 6,18,21,24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c7952389d48bad5aba52c7840b64997cf5170f4a",
+  "prompts": {},
+  "sessions": {
+    "s_a12f711bad3cce": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "adee1dce-0b0a-43fa-911b-bd62a76c0dde",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "TCNDOGRUL <necati.dogrul@atmosware.turkcell.com.tr>"
+    }
+  }
+}
